@@ -1,0 +1,27 @@
+body {
+    background-color: lightslategray;
+}
+h1 {
+    text-align: center;
+    border: 10px solid gray;
+    letter-spacing: 3px;
+    background-color: whitesmoke;
+    font-weight: 600;
+    
+}
+h3 {
+   text-transform: uppercase; 
+   color: black;
+   letter-spacing: 3px;
+   font-size: 30px;
+   text-align: center    
+   }
+img {
+  border: 3px solid gray;
+  padding: 15px;
+  background-color: whitesmoke;    
+  }
+.mt-0 {
+  margin-top: 0 !important;
+}
+
