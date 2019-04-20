@@ -20,7 +20,8 @@ h3 {
    letter-spacing: 3px;
    font-size: 30px;
    font-weight: 400;
-   text-align: center    
+   text-align: center
+   font-family: inherit;       
    }
 img {
   border: 3px solid gray;
