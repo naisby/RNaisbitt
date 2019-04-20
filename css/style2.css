@@ -1,0 +1,13 @@
+h2 {
+   text-transform: uppercase; 
+   color: whitesmoke;
+   letter-spacing: 3px;
+   font-size: 30px;
+   text-align: center    
+   }
+.image {
+  background-image: url(https://cdn.pixabay.com/photo/2016/10/11/21/43/geometric-1732847_960_720.jpg);
+  background-size: cover;
+  background-position: center;
+  height: 300px;
+}
