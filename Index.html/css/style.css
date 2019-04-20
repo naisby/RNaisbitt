@@ -1,19 +1,25 @@
 body {
-    background-color: lightslategray;
+  background: #141E30;
+  background: -webkit-linear-gradient(-60deg, #35577D, #141E30);
+  background: linear-gradient(-60deg, #35577D, #141E30);
+  margin: 0;
+  padding: 0x
 }
 h1 {
     text-align: center;
-    border: 10px solid gray;
+    border: 3px solid gray;
     letter-spacing: 3px;
-    background-color: whitesmoke;
+    background-color: #141E30;
     font-weight: 600;
-    
+    color: white;
 }
+
 h3 {
    text-transform: uppercase; 
-   color: black;
+   color: white;
    letter-spacing: 3px;
    font-size: 30px;
+   font-weight: 400;
    text-align: center    
    }
 img {
@@ -24,4 +30,18 @@ img {
 .mt-0 {
   margin-top: 0 !important;
 }
-
+.image {
+  background-image: url(https://cdn.pixabay.com/photo/2016/10/11/21/43/geometric-1732847_960_720.jpg);
+  background-size: cover;
+  background-position: center;
+  height: 300px;
+}
+.caption {
+    font-size: 150px;
+    color: whitesmoke;
+    padding-bottom: 24px
+    letter-spacing: 2px;
+    text-align: center;
+    margin-top: auto;
+    font-style: bold;
+    text-shadow: 25px #141E30;
